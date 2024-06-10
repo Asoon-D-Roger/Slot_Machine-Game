@@ -1,7 +1,7 @@
 # **JavaScript Slot Machine Project**
 
 ## Overview
-  This project is a simple slot machine game developed using JavaScript and Node.js. It allows users to interact with a command-line interface to place bets,
+  - This project is a simple slot machine game developed using JavaScript and Node.js. It allows users to interact with a command-line interface to place bets,
 choose the number of lines to bet on, and see if they win based on random outcomes.
 
 ## Features
@@ -22,9 +22,9 @@ choose the number of lines to bet on, and see if they win based on random outcom
   - Execute the script using `node project.js`.
 
 ## Conclusion
-  This project has been an excellent opportunity to deepen my understanding of JavaScript and Node.js. 
-I look forward to expanding its features and optimizing the gameplay experience.
+  - This project has been an excellent opportunity to deepen my understanding of JavaScript and Node.js. 
+  - I look forward to expanding its features and optimizing the gameplay experience.
 
 ---
 
-### Feel free to adjust or expand upon this description as needed for your project documentation or presentation!
+### - Feel free to adjust or expand upon this description as needed for your project documentation or presentation!
