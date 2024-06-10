@@ -27,4 +27,4 @@ choose the number of lines to bet on, and see if they win based on random outcom
 
 ---
 
-### - Feel free to adjust or expand upon this description as needed for your project documentation or presentation!
+### Feel free to adjust or expand upon this description as needed for your project documentation or presentation!
